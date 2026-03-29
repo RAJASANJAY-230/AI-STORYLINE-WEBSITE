@@ -63,7 +63,7 @@ The design follows a cinematic storytelling style inspired by modern interactive
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/RAJASANJAY-230/AI-STORYLINE-WEBSITE/edit/main/README.md
 cd your-repo-name
 npm install
 npm start
@@ -75,13 +75,13 @@ npm start
 
 This project is deployed using:
 
-* Vercel / Netlify / GitHub Pages
+* GitHub Pages
 
 ---
 
 ## 👨‍💻 Author
 
-* Your Name
+* RAJA SANJAY CH
 
 ---
 

@@ -3,13 +3,7 @@
 
 ## 🌐 Live Demo
 
-(Add your deployed link here – Vercel/Netlify)
-
-## 📂 GitHub Repository
-
-(Add your repo link here)
-
----
+https://ai-storyline1k5szw99zo.codedesign.app/
 
 ## 🧠 Project Overview
 
